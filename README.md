@@ -1,10 +1,10 @@
 # High-quality Surface Reconstruction using Gaussian Surfels
-[Pinxuan Dai](https://turandai.github.io/)\*, 
+<!-- [Pinxuan Dai](https://turandai.github.io/)\*, 
 [Jiamin Xu](https://superxjm.github.io/)\*, 
 Wenxiang Xie, 
 [Xinguo Liu](http://www.cad.zju.edu.cn/home/xgliu),
 [Huamin Wang](https://wanghmin.github.io/index.html),
-[Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/index.htm)<sup>†</sup>
+[Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/index.htm)<sup>†</sup> -->
 
 | [Project](https://turandai.github.io/projects/gaussian_surfels/) 
 | [Paper](https://arxiv.org/pdf/2404.17774) 
@@ -84,12 +84,13 @@ python eval.py --dataset bmvs --source_path path/to/your/data/directory --mesh_p
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
     <pre><code>@inproceedings{Dai2024GaussianSurfels,
-  author    = {Dai, Pinxuan and Xu, Jiamin and Xie, Wenxiang and Liu, Xinguo and Wang, Huamin and Xu, Weiwei},
-  title     = {High-quality Surface Reconstruction using Gaussian Surfels},
+  author = {Dai, Pinxuan and Xu, Jiamin and Xie, Wenxiang and Liu, Xinguo and Wang, Huamin and Xu, Weiwei},
+  title = {High-quality Surface Reconstruction using Gaussian Surfels},
   publisher = {Association for Computing Machinery},
-  booktitle = {SIGGRAPH 2024 Conference Papers},
-  year      = {2024},
-  doi       = {10.1145/3641519.3657441}
+  booktitle = {ACM SIGGRAPH 2024 Conference Papers},
+  year = {2024},
+  articleno = {22},
+  numpages = {11}
 }</code></pre>
   </div>
 </section>
